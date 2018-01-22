@@ -3,6 +3,10 @@ package com.demo.barclaysapp.dto;
 import java.util.Map;
 import org.springframework.stereotype.Component;
 
+/**
+ * @author kaishav
+ *
+ */
 @Component
 public class OrderDTO {
 	private Map<String, Integer> ordersMap;
